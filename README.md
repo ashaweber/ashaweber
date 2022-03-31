@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ashaweber
+- 👀 I’m interested in belonging and inclusion.
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me: https://www.linkedin.com/in/ashaweber/
